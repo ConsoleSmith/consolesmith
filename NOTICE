@@ -1,0 +1,6 @@
+ConsoleSmith (c) 2026 ConsoleSmith L.L.C. All rights reserved. Use of this software is governed by the
+ConsoleSmith Terms of Service at https://consolesmith.com/terms.
+
+ConsoleSmith uses third-party open source packages, which setup installs from the Python Package Index.
+Each is under its own license. The release download lists them in requirements/lock-customer.txt and
+requirements/lock-build.txt.
