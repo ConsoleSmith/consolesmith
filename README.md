@@ -36,7 +36,11 @@ If the hashes differ, do not use the file. Download it again from the link above
 
 ## Supported systems
 
-Windows 10 or 11 (x64; setup uses an installed 64-bit Python or installs 3.14.10), Apple Silicon Macs, and Linux (x64 or arm64), with Python 3.11 to 3.14. Intel Macs are not supported.
+Setup is tested on Windows 11 (x64). It uses an installed 64-bit Python 3.11 to 3.14, or installs Python 3.14.10 for your user only. Windows 10 is not supported.
+
+The ZIP also includes a setup script for Apple Silicon Macs and Linux (x64 or arm64), but we have not tested those yet. On them, install Python 3.11 to 3.14 first. The approval window the change tools rely on is Windows only, so on a Mac or Linux expect the change tools to be refused by default. Intel Macs are not supported.
+
+The README inside the 1.0.1 ZIP still lists Windows 10; this page is current.
 
 ## Terms and support
 
